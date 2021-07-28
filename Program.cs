@@ -7,6 +7,7 @@ namespace PrjAdo.NetEg
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("created");
         }
     }
 }
